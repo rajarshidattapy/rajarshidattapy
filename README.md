@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajarshi!</h1>
-<h3 align="center">Budding data scientist and frontend developer and a web3 enthusiast.</h3>
+<h3 align="center">Budding data scientist and a frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshidattapy&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshidattapy" /> </p>
 
-- 🌱 I’m currently learning **advanced Python. Being a first-year engineering undergrad, I am also learning C++ with the curriculum.**
+- 🌱 I’m currently learning **advanced Python. As a first-year engineering undergrad, I also learning C++ with the curriculum.**
 
 - 👯 I’m looking to collaborate on **any Data Science projects.**
 
