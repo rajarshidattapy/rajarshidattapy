@@ -56,4 +56,4 @@
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-teal-seven.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/312qfenvmue5jzn7vu5jfld2hkra)
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cdk0l0vf2)
