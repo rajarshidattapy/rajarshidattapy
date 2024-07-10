@@ -52,3 +52,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajarshidattapy&show_icons=true&locale=en" alt="rajarshidattapy" /></p>
 
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-teal-seven.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/312qfenvmue5jzn7vu5jfld2hkra)
