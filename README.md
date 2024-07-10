@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rajarshi!</h1>
-<h3 align="center">Budding data scientist and a frontend developer.</h3>
+<h3 align="center">Budding data scientist and a frontend designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshidattapy&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshidattapy" /> </p>
 
 - 🌱 I’m currently learning **advanced Python. As a first-year engineering undergrad, I also learning C++ with the curriculum.**
 
-- 👯 I’m looking to collaborate on **any Data Science projects.**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithms.**
 
 - 📝 I regularly write articles on [https://lifeviathicklens.blogspot.com/](https://lifeviathicklens.blogspot.com/)
 
-- 💬 Ask me about **Python and Figma**
-
-- 📫 How to reach me **rayan05rio@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rajarshi-datta-4929b2277/](https://www.linkedin.com/in/rajarshi-datta-4929b2277/)
-
-- ⚡ Fun fact **about me will be that I am not a night owl.**
+- 📫 How to reach me **rayan05rio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
