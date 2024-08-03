@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rajarshi!</h1>
-<h3 align="center">Budding data scientist and a frontend designer.</h3>
+<h3 align="center">Budding ML dev and a frontend designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshidattapy&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshidattapy" /> </p>
 
-- 🌱 I’m currently learning **advanced Python. As a first-year engineering undergrad, I also learning C++ with the curriculum.**
-
-
-- 📝 I regularly write articles on [https://lifeviathicklens.blogspot.com/](https://lifeviathicklens.blogspot.com/)
-
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/rajarshi-datta-4929b2277/](https://www.linkedin.com/in/rajarshi-datta-4929b2277/)
-- 📫 How to reach me **rayan05rio@gmail.com**
+- 🌱 I’m currently learning **advanced Python.**
+- 📫 How to reach me: **rayan05rio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajarsh9573965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajarsh9573965" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajarshidatta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rajarsh9573965" height="30" width="40" /></a>
 <a href="https://kaggle.com/rrrrajarshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rrrrajarshi_" height="30" width="40" /></a>
 <a href="https://instagram.com/rrrrajarshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrrrajarshi_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lifeviathicklens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifeviathicklens" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajarshi_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajarshi_100" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajarshidattapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajarshi_100" height="30" width="40" /></a>
+<a href="https://www.codeforces.com/rajarshidattapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajarshi_100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
