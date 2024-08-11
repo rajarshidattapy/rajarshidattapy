@@ -120,11 +120,9 @@ I am Currently a Student<br>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Intro to me?!]([https://kartikshukla.hashnode.dev/web-development-why-and-how-i-am-doing-it](https://rajarshiwrites.hashnode.dev/intro-to-me))
+- [Intro to me?!] <a href="https://rajarshiwrites.hashnode.dev/intro-to-me" target="blank">
 
 <!-- BLOG-POST-LIST:END -->
-
-  
 
 ## Github Stats
 
