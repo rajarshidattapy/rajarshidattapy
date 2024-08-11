@@ -120,9 +120,7 @@ I am Currently a Student<br>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Web Development! Why and How I am doing it!?](https://kartikshukla.hashnode.dev/web-development-why-and-how-i-am-doing-it)
-
-- [Hello! Hello! Who am i?](https://kartikshukla.hashnode.dev/hello-hello-who-am-i)
+- [Intro to me?!]([https://kartikshukla.hashnode.dev/web-development-why-and-how-i-am-doing-it](https://rajarshiwrites.hashnode.dev/intro-to-me))
 
 <!-- BLOG-POST-LIST:END -->
 
