@@ -116,10 +116,7 @@ I am Currently a Student<br>
 
 ## Check out my blogs here
 
-[Rajarshi writes](https://rajarshiwrites.hashnode.dev/)
-
-- Intro to me?!
-<a href="https://rajarshiwrites.hashnode.dev/intro-to-me" target="blank">
+- [Rajarshi writes](https://rajarshiwrites.hashnode.dev/)
 
 <!-- BLOG-POST-LIST:END -->
 
