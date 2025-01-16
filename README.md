@@ -19,11 +19,13 @@
 
 *About Me*:<br>
 
-I am Currently a Student<br>
+I am Currently a 3rd year Information Science student!<br>
 🌱 I’m learning <b>AI & Machine Learning.</b><br>
 👯 I’m looking to collaborate on <b>Open source AI Projects.</b><br>
 📫 How to reach me <b>rayan05rio@gmail.com</b><br>
- 
+
+[Portfolio](rajarshidatta.vercel.app)
+
 ## My Skill Set
 
 <table  align='center'><td  valign="top"  width="33%">
