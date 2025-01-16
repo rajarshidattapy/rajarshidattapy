@@ -20,15 +20,9 @@
 *About Me*:<br>
 
 I am Currently a Student<br>
-
-🌱 I’m learning <b>Machine Learning.</b><br>
-
-👯 I’m looking to collaborate on <b>Open source Projects.</b><br>
-
+🌱 I’m learning <b>AI & Machine Learning.</b><br>
+👯 I’m looking to collaborate on <b>Open source AI Projects.</b><br>
 📫 How to reach me <b>rayan05rio@gmail.com</b><br>
-
-⚡ Fun fact <b>I am not an night owl!</b>
-
  
 ## My Skill Set
 
@@ -46,32 +40,17 @@ I am Currently a Student<br>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
-
-  
-
 </td><td  valign="top"  width="33%">
-
   
-  
-  
-
 ### Backend
-
 <div  align="center">
-
-
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="50" /></a>
 </div>
-
 </div>
-
-  
-
 </td></tr></table>
-
 </td><td valign="top" width="33%">
 
 
