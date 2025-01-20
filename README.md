@@ -19,7 +19,7 @@
 
 *About Me*:<br>
 
-I am Currently a 3rd year Information Science student!<br>
+I am Currently a 2nd year Information Science student!<br>
 🌱 I’m learning <b>AI & Machine Learning.</b><br>
 👯 I’m looking to collaborate on <b>Open source AI Projects.</b><br>
 📫 How to reach me <b>rayan05rio@gmail.com</b><br>
