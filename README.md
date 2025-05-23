@@ -19,43 +19,60 @@
 
 *About Me*:<br>
 
-I am Currently a 2nd year Information Science student!<br>
+I am Currently a 3rd year Information Science student!<br>
 🌱 I’m learning <b>AI & Machine Learning.</b><br>
 👯 I’m looking to collaborate on <b>Open source AI Projects.</b><br>
 📫 How to reach me <b>rayan05rio@gmail.com</b><br>
 
-Check out my [Portfolio!](https://rajarshidatta.vercel.app/)
+Check out my [Portfolio](https://rajarshidatta.vercel.app/)
 
 ## My Skill Set
+### **Python, AI & ML**
 
-<table  align='center'><td  valign="top"  width="33%">
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-### Frontend
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Seaborn-4C4C4C?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-HuggingFace-FFD700?logo=huggingface&logoColor=black&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-ResNet-8E44AD?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-InceptionNet-2ECC71?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-MobileNet-3498DB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-GAN-FFA500?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-DCGAN-2ECC71?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-cGAN-FFC300?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-StyleGAN-8E44AD?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-VAE-3498DB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-YOLO-3E8E41?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-LangChain-FF6F00?logo=python&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Transformers-FFD700?logo=huggingface&logoColor=black&style=for-the-badge&logoWidth=50">
 
-<div  align="center">
-
-
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
-</td><td  valign="top"  width="33%">
-  
-### Backend
-<div  align="center">
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="50" /></a>
-</div>
-</div>
-</td></tr></table>
-</td><td valign="top" width="33%">
 
-</td></tr></table>  
+<p><em>... and counting</em></p>
+
+
+### **Web Development**
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoWidth=50">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=50">
+
+</div>
+ 
 
 <br/>  
   
