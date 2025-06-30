@@ -24,8 +24,6 @@ I am Currently a 3rd year Information Science student!<br>
 👯 I’m looking to collaborate on <b>Open source AI Projects.</b><br>
 📫 How to reach me <b>rayan05rio@gmail.com</b><br>
 
-Check out my [Portfolio](https://rdport.vercel.app/)
-
 ## My Skill Set
 ### **Python, AI & ML**
 
