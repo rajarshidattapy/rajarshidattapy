@@ -12,8 +12,6 @@
 
 <p  align="center">
 
-<img  src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Rajarshi Datta; 🧑‍💻 A Full Stack ML Developer; CP and Open-Source ❣️; Designer🎨 :D;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-
 <img  src="https://komarev.com/ghpvc/?username=rajarshidattapy&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshidattapy"  align="center"/>
 </p>
 
