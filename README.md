@@ -11,7 +11,8 @@
 ---
 
 ### 👤 About Me  
-I am currently a **3rd year Information Science student.**  
+I am currently a **3rd year IT undergrad.**
+🏆 I have won 5 hackathons, global and national :)
 🌱 I work on **AI & Web3** with a growing interest in fintech products!  
 👯 I’m looking to collaborate on **Open Source Projects.**
 
