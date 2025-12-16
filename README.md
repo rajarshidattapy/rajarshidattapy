@@ -21,7 +21,7 @@ I am currently a **3rd year IT undergrad.**
 ---
 
 ### 🔗 Socials
-- **Portfolio:** https://rdport.vercel.app  
+- **Portfolio:** https://rajarshidatta.vercel.app  
 - **All links:** https://bento.me/rajarshi  
 
 ---
