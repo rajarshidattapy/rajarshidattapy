@@ -1,3 +1,3 @@
-• AI dev, ML Research, 7x hackathon wins.
+• AI dev, ML Research, 8x hackathon wins.
 
-• building [@Anymind](https://github.com/rajarshidattapy/anymind)
+• building [Anymind](anymind.vercel.app)
