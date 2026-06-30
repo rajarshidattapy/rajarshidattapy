@@ -1,3 +1,3 @@
-• AI dev, ML Research, 10x hackathon wins.
+• AI dev, ML Research, 12x hackathon wins.
 
 • building [Stacy](stacyos.xyz)
