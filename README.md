@@ -2,4 +2,4 @@
 
 • building [Stacy](stacyos.xyz)
 
-• Won 13x hackathons.
+• Won 14x hackathons.
