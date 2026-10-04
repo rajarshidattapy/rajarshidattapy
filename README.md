@@ -11,4 +11,4 @@
 
 ### Scaled previously:
 
-- [**Stacy**](https://www.stacyos.xyz): Worked on a secure Ethereum dApp creation engine with sandboxed runtimes, verifiable execution, and a unified developer API.
+- [**Stacy**](https://www.stacyos.xyz): Worked on a secure Ethereum dApp creation engine with sandboxed runtimes, verifiable execution, and a developer API.
