@@ -5,7 +5,7 @@
 
 ### Building currently:
 
-- [**Anymind:**](anymind.vercel.app) A Graph-Based Runtime Architecture for Stateful Multi-Agent Systems
+- [**Anymind:**](https://anymind.vercel.app) A Graph-Based Runtime Architecture for Stateful Multi-Agent Systems
 - [**MyKolkata**](https://mykolkata.life): All my love poured out for Kolkata, India.
 
 
