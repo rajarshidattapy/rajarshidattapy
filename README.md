@@ -1,11 +1,11 @@
 ## Hey, I'm Rajarshi.
 
-- CS undergrad into AI Research.
+- IT undergrad into AI Research.
 - 15× Hackathon Winner.
 
 ### Building currently:
 
-- [**Anymind:**](https://github.com/anymindhq) A Graph-Based Runtime Architecture for Stateful Multi-Agent Systems
+- [**Anymind:**](anymind.vercel.app) A Graph-Based Runtime Architecture for Stateful Multi-Agent Systems
 - [**MyKolkata**](https://mykolkata.life): All my love poured out for Kolkata, India.
 
 
