@@ -4,6 +4,10 @@
 - 15× Hackathon Winner.
 
 ### Building currently:
+- [**Dani Bot:**](https://dani.danlab.dev/) Best computer use agent for any purpose. [Backed by Nvidia Inception program]
+
+
+### Ongoing:
 
 - [**Anymind:**](https://anymind.vercel.app) A Graph-Based Runtime Architecture for Stateful Multi-Agent Systems
 - [**MyKolkata**](https://mykolkata.life): All my love poured out for Kolkata, India.
